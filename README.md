@@ -5,6 +5,7 @@ I will share *.BAT scripts here. If only one of them helps you or simplifies you
 You can see the list of existing script below.
 
 1. <a href="#easy-backup">Easy-backup</a>.
+2. <a href="#path-length-checker">Path-length-checker</a>.
 
 <a name="easy-backup"><b>Easy-backup</b></a>
 
@@ -21,4 +22,11 @@ Source="D:\Music\Queen"<br/>
 Destination="D:\BACKUPS\Music"<br/>
 WinRar="C:\Program Files\WinRar\rar.exe"<br/>
 
-<hr/> 
+<hr/>
+
+<a name="path-length-checker">Path-length-checker</a>
+
+Useful script to find all existing files, which have length > than specified value. It may essentially save your own time when you need to find all files, which have path-length > 260 symbols.
+Also you may find files with any size, just change parameter <b>_pathLength</b> at the top of file.
+
+<hr/>  
