@@ -2,7 +2,7 @@
 
 Some useful solutions, which can do your work in Windows easier.
 
-I will share *.BAT scripts here. If only one of them helps you or simplifies your routine work - it will be great:)<br/>
+I will share *.bat scripts here. If only one of them helps you or simplifies your routine work - it will be great:)<br/>
 You can see the list of existing script below.
 
 1. <a href="#easy-backup">Easy-backup</a>.
