@@ -21,9 +21,11 @@ Easy steps to backup:
 </ul>
 
 <u>Sample config.ini:</u><br/>
-Source="D:\Music\Queen"<br/>
-Destination="D:\BACKUPS\Music"<br/>
-WinRar="C:\Program Files\WinRar\rar.exe"<br/>
+```ini
+Source="D:\Music\Queen"
+Destination="D:\BACKUPS\Music"
+WinRar="C:\Program Files\WinRar\rar.exe"
+```
 
 <hr/> 
 
