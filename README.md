@@ -16,8 +16,8 @@ Simple script for creating folders\files backup. You can specify explicitly the 
 
 Easy steps to backup:
 <ul>
-  <li> Open <i>config.ini</i> file and specify necessary attributes. </li>
-  <li> Run <i>easy-backup.bat</i> and wait for the end of the process. </li>
+  <li> Open `config.ini` file and specify necessary attributes. </li>
+  <li> Run `easy-backup.bat` and wait for the end of the process. </li>
 </ul>
 
 <u>Sample config.ini:</u><br/>
@@ -31,8 +31,8 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 
 <a name="path-length-checker"><b>Path-length-checker</b></a>
 
-<p>Useful script to find all existing files, which have length > than specified value. It may essentially save your own time when you need to find all files, which have path-length > 260 symbols.</p>
+<p>Useful script to find all existing files, which have length `>` than specified value. It may essentially save your own time when you need to find all files, which have path-length > 260 symbols.</p>
 
-<p>Also you may find files with any size, just change parameter <b>_pathLength</b> at the top of file.</p>
+<p>Also you may find files with any size, just change parameter `_pathLength` at the top of file.</p>
 
 <hr/>  
