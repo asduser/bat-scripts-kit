@@ -34,14 +34,12 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 
 <p>Useful script to find all existing files, which have length `>` than specified value. It may essentially save your own time when you need to find all files, which have path-length > 260 symbols.</p>
 
-<p>Also you may find files with any size, just change parameter `_pathLength` at the top of file.</p>
-
-<hr/>  
+<p>Also you may find files with any size, just change parameter `_pathLength` at the top of file.</p> 
 
 <hr/> 
 
 
-<a name="path-length-checker"><b>Server checker (by ping)r</b></a>
+<a name="networking-server-down"><b>Server checker (by ping)</b></a>
 
 <p>Ping server and if it turned off, notify due to special message.</p>
 
