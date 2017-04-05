@@ -7,6 +7,7 @@ You can see the list of existing script below.
 
 1. <a href="#easy-backup">Easy-backup</a>.
 2. <a href="#path-length-checker">Path-length-checker</a>.
+3. <a href="#networking-server-down">Server checker (by ping)</a>.
 
 <hr/> 
 
@@ -34,5 +35,16 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 <p>Useful script to find all existing files, which have length `>` than specified value. It may essentially save your own time when you need to find all files, which have path-length > 260 symbols.</p>
 
 <p>Also you may find files with any size, just change parameter `_pathLength` at the top of file.</p>
+
+<hr/>  
+
+<hr/> 
+
+
+<a name="path-length-checker"><b>Server checker (by ping)r</b></a>
+
+<p>Ping server and if it turned off, notify due to special message.</p>
+
+`./main.bat google.com 192.168.0.1 mylinuxbox N2100`
 
 <hr/>  
