@@ -43,6 +43,6 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 
 <p>Ping server and if it turned off, notify due to special message.</p>
 
-`./main.bat google.com 192.168.0.1 mylinuxbox N2100`
+`./server-checker.bat google.com 192.168.0.1 mylinuxbox N2100`
 
 <hr/>  
