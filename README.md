@@ -8,6 +8,7 @@ You can see the list of existing script below.
 1. <a href="#easy-backup">Easy-backup</a>.
 2. <a href="#path-length-checker">Path-length-checker</a>.
 3. <a href="#networking-server-down">Server checker (by ping)</a>.
+3. <a href="#url-status">URL-status</a>.
 
 <hr/> 
 
@@ -45,4 +46,7 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 
 `./server-checker.bat google.com 192.168.0.1 mylinuxbox N2100`
 
-<hr/>  
+<hr/> 
+
+<a name="url-status"><b>URL-status</b></a>
+ 
