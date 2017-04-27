@@ -49,4 +49,8 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 <hr/> 
 
 <a name="url-status"><b>URL-status</b></a>
+
+<p>Get http-code by specified url.</p>
+
+<hr/> 
  
