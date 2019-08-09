@@ -37,12 +37,13 @@ find_user() {
 
 # sort lines and write result into another file
 sort_users() {
-    sort ./files/users.txt > ./files/users_with_sorting.txt
+    sort ./files/users.txt
 }
 
 # sort lines by column and write result into another file, -r (reverse), -n (numeric), -k (column number)
 sort_users_by_column() {
-    sort -k 2nr ./files/users_column.txt > ./files/users_column_with_sorting.txt
+    #sort -k 2nr ./files/users_column.txt > ./files/users_column_with_sorting.txt
+    sort -k 2nr ./files/users_column.txt
 }
 
 sort_users_by_column
