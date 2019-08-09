@@ -1,0 +1,4 @@
+jack 100
+bob 50
+amanda 25
+brandon 210
