@@ -42,10 +42,16 @@ sort_users() {
 
 # sort lines by column and write result into another file, -r (reverse), -n (numeric), -k (column number)
 sort_users_by_column() {
-    #sort -k 2nr ./files/users_column.txt > ./files/users_column_with_sorting.txt
     sort -k 2nr ./files/users_column.txt
 }
 
+for_in_loop() {
+    path="./files/users.txt"
+    for user in $(cat $path); do
+        echo "$user"
+    done
+}
+
 # write the function here to execute in the current process
-sort_users_by_column
+for_in_loop
 sleep 1s
