@@ -46,5 +46,6 @@ sort_users_by_column() {
     sort -k 2nr ./files/users_column.txt
 }
 
+# write the function here to execute in the current process
 sort_users_by_column
 sleep 1s
