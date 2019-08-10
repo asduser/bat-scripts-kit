@@ -46,9 +46,19 @@ sort_users_by_column() {
 }
 
 for_in_loop() {
-    path="./files/users.txt"
-    for user in $(cat $path); do
+    for user in $(cat ./files/users.txt)
+    do
         echo "$user"
+    done
+
+    for i in {0..9..3}
+    do
+        echo "Number: $i"
+    done
+
+    for ((i=0; i<5; i++))
+    do
+        echo "Number is: $i"
     done
 }
 
