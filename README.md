@@ -54,3 +54,8 @@ WinRar="C:\Program Files\WinRar\rar.exe"
 
 <hr/> 
  
+ ## Licence
+
+MIT License
+
+Copyright (c) 2019 [asduser](https://github.com/asduser)
